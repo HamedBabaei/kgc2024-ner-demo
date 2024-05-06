@@ -1,0 +1,143 @@
+[
+    {
+        "ID": "C0000869-6",
+        "term": "Thorntrees",
+        "type": [
+            "plant"
+        ]
+    },
+    {
+        "ID": "C0034246-807",
+        "term": "Tanacetum cinerariifolium Flower",
+        "type": [
+            "plant"
+        ]
+    },
+    {
+        "ID": "C0242767-3091",
+        "term": "Caulis",
+        "type": [
+            "plant"
+        ]
+    },
+    {
+        "ID": "C0330382-5170",
+        "term": "Sweet William",
+        "type": [
+            "plant"
+        ]
+    },
+    {
+        "ID": "C0034246-807",
+        "term": "Tanacetum cinerariifolium Flower",
+        "type": [
+            "plant"
+        ]
+    },
+    {
+        "ID": "C0001577-28",
+        "term": "Uterine Adnexitis",
+        "type": [
+            "disease or syndrome"
+        ]
+    },
+    {
+        "ID": "C0002173-46",
+        "term": "Alopecia Mucinosis",
+        "type": [
+            "disease or syndrome"
+        ]
+    },
+    {
+        "ID": "C0002992-68",
+        "term": "Diffuse Hemangioma",
+        "type": [
+            "disease or syndrome"
+        ]
+    },
+    {
+        "ID": "C0003850-91",
+        "term": "Arterial Sclerosis",
+        "type": [
+            "disease or syndrome"
+        ]
+    },
+    {
+        "ID": "C0035920-854",
+        "term": "Rubella Infection",
+        "type": [
+            "disease or syndrome"
+        ]
+    },
+    {
+        "ID": "C0001699-31",
+        "term": "K. pneumoniae",
+        "type": [
+            "bacterium"
+        ]
+    },
+    {
+        "ID": "C0085494-2237",
+        "term": "Presumptive enterococcus",
+        "type": [
+            "bacterium"
+        ]
+    },
+    {
+        "ID": "C0001703-32",
+        "term": "Gaffkya Species",
+        "type": [
+            "bacterium"
+        ]
+    },
+
+    {
+        "ID": "C0004041-93",
+        "term": "Sterigmatocystis ochracea",
+        "type": [
+            "fungus"
+        ]
+    },
+    {
+        "ID": "C0319911-5124",
+        "term": "Hyalopus Acremonium",
+        "type": [
+            "fungus"
+        ]
+    },
+    {
+        "ID": "C0319919-5125",
+        "term": "Sterigmatocystis flavipes",
+        "type": [
+            "fungus"
+        ]
+    },
+    {
+        "ID": "C0005135-118",
+        "term": "Bacca",
+        "type": [
+            "food"
+        ]
+    },
+    {
+        "ID": "C0349382-5656",
+        "term": "Green Olive",
+        "type": [
+            "food"
+        ]
+    },
+    {
+        "ID": "C0453113-6121",
+        "term": "Cruciform Vegetables",
+        "type": [
+            "food"
+        ]
+    },
+    {
+        "ID": "C1517323-19793",
+        "term": "Fruit or Vegetable",
+        "type": [
+            "food"
+        ]
+    }
+]
